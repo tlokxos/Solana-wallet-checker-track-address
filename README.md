@@ -116,3 +116,5 @@ The project is written in C++ and utilizes several libraries. We recommend using
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update:  16.06.2025 05:31
