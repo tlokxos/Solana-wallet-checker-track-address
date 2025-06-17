@@ -117,4 +117,6 @@ The project is written in C++ and utilizes several libraries. We recommend using
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  16.06.2025 05:31
+
+
+Update: url is back up and live
